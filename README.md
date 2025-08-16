@@ -12,25 +12,25 @@ This project contains an Employee Complaints Dataset for analyzing customer comp
 
  ### 📂 Dataset Contents --
 
- ** 🔹The Excel file Employee_Complaints_Data.xlsx includes the following sheets:
+ 🔹The Excel file Employee_Complaints_Data.xlsx includes the following sheets:
 
- - **1 Jan 2025 (Raw Data)
--  **Contains detailed complaint records.
+ - 1 Jan 2025 (Raw Data)
+-  Contains detailed complaint records.
   
 
 
 
 ### 🔹 Pivot Tables --
 
--* Number of complaints handled by each employee
--* Complaint distribution by status and pending reason
--* Escalation details.
+- Number of complaints handled by each employee
+- Complaint distribution by status and pending reason
+- Escalation details.
 
 
 
 
 ### 🔹 Final_report --
--*Placeholder sheet for finalized dashboards or summarized reports (currently empty).
+- Placeholder sheet for finalized dashboards or summarized reports (currently empty).
 
 
 
@@ -38,17 +38,17 @@ This project contains an Employee Complaints Dataset for analyzing customer comp
 
 ### 🔹🔍 Possible Analysis--
 
--*You can perform:
--*Trend Analysis – Track complaints over time
--*Employee Performance – Identify who resolves the most complaints
--*Complaint Types – Most frequent issues (damaged/wrong product)
--*Escalation Reasons – Analyze common pending reasons.
+- You can perform:
+- Trend Analysis – Track complaints over time
+- Employee Performance – Identify who resolves the most complaints
+- Complaint Types – Most frequent issues (damaged/wrong product)
+- Escalation Reasons – Analyze common pending reasons.
 
 
 
 
 ### 🔹🚀 Usage --
 
--*Open the dataset in Excel / Power BI / Python (Pandas)
--*Use pivot tables, charts, or dashboards for visualization
--*Add your analysis results in the Final_report sheet
+- Open the dataset in Excel / Power BI / Python (Pandas)
+- Use pivot tables, charts, or dashboards for visualization
+  - Add your analysis results in the Final_report sheet
