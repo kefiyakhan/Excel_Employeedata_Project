@@ -1,18 +1,22 @@
 # Excel_Project
 # Employee_Complaint_Data
 This is a Excel project for Employee data . 
-📖 Project Overview
+
+
+### 📖 Project Overview
 
 This project contains an Employee Complaints Dataset for analyzing customer complaints handled by employees. The dataset is designed to track complaint details, their current status, and resolution reasons. It can be used for data analysis, reporting, and visualization (Excel, Power BI).
 
 
-###📂 Dataset Contents --
+
+
+ ### 📂 Dataset Contents --
 
  ** 🔹The Excel file Employee_Complaints_Data.xlsx includes the following sheets:
 
  - **1 Jan 2025 (Raw Data)
 -  **Contains detailed complaint records.
--  
+  
 
 
 
@@ -25,14 +29,14 @@ This project contains an Employee Complaints Dataset for analyzing customer comp
 
 
 
-###🔹 Final_report --
+### 🔹 Final_report --
 -*Placeholder sheet for finalized dashboards or summarized reports (currently empty).
 
 
 
 
 
-###🔹🔍 Possible Analysis--
+### 🔹🔍 Possible Analysis--
 
 -*You can perform:
 -*Trend Analysis – Track complaints over time
@@ -43,7 +47,7 @@ This project contains an Employee Complaints Dataset for analyzing customer comp
 
 
 
-###🔹🚀 Usage --
+### 🔹🚀 Usage --
 
 -*Open the dataset in Excel / Power BI / Python (Pandas)
 -*Use pivot tables, charts, or dashboards for visualization
