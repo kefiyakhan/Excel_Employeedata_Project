@@ -51,4 +51,4 @@ This project contains an Employee Complaints Dataset for analyzing customer comp
 
 - Open the dataset in Excel / Power BI / Python (Pandas)
 - Use pivot tables, charts, or dashboards for visualization
-  - Add your analysis results in the Final_report sheet
+- Add your analysis results in the Final_report sheet
