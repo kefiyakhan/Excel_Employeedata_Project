@@ -16,6 +16,11 @@ This project contains an Employee Complaints Dataset for analyzing customer comp
 
  - 1 Jan 2025 (Raw Data)
 -  Contains detailed complaint records.
+-  <a href ="https://github.com/kefiyakhan/Excel_Employeedata_Project/blob/main/Employee_Complaints_Data(1).xlsx">
+
+
+### Dashboard --
+(https://github.com/kefiyakhan/Excel_Employeedata_Project/blob/main/Screenshot%202025-08-17%20014341(1)(1).png)
   
 
 
